@@ -22,7 +22,7 @@ public class interviewQuestions {
         questionThree = scanner.next();
 
 
-        PrintWriter writer = new PrintWriter("answers.md", "UTF-8");
+        PrintWriter writer = new PrintWriter("Interview.md", "UTF-8");
 
         writer.println("My favorite color is "+ questionOne);
         writer.println("My hometown is " + questionTwo);
