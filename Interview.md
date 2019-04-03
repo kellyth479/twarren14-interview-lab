@@ -4,10 +4,10 @@
 1. What's your favorite color?
 
 
-2. What city were you born in?
+1. What city were you born in?
 
 
-3. What's your favorite movie?
+1. What's your favorite movie?
 
 
 
