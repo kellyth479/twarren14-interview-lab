@@ -1,5 +1,5 @@
-##Specail Topics Interview Questions
-#Answer each in the space below the question
+Specail Topics Interview Questions
+Answer each in the space below the question
 
 1. What's your favorite color?
 
