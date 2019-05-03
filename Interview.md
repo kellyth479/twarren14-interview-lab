@@ -2,12 +2,12 @@
 <h2>Answer each in the space below the question</h2>
 
 1. What's your favorite color?
-    Ans: 
+    
 
 1. What city were you born in?
-    Ans: 
+    
 
 1. What's your favorite movie?
-    Ans: 
+    
 
 
